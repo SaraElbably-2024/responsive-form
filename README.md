@@ -32,5 +32,5 @@ A responsive form built with pure HTML & CSS as part of my frontend learning jou
 - Difference between `justify` (horizontal) and `align` (vertical)
 - Making a form responsive using `flex-wrap` and `min-width`
 - Styling `::placeholder` with custom colors
--
-https://github.com/SaraElbably-2024/responsive-form.git
+ 
+ 
