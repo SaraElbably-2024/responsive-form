@@ -4,6 +4,11 @@ A responsive form built with pure HTML & CSS as part of my frontend learning jou
 
 ---
 
+## Demo 🎬
+
+[![Responsive Form Preview](assets/form.png)](assets/form.mov)
+
+---
 ## 🔗 Live Demo
 👉 [Click to Preview](https://github.com/SaraElbably-2024/responsive-form.git))
 
